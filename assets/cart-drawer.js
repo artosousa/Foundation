@@ -54,7 +54,7 @@ class CartDrawer extends HTMLElement {
         }
 
         // Check if product.handle is 'grip-single-sheet'
-        if (item.handle === 'grip-single-sheet') {
+        if (item.handle === 'star-and-moon-grip') {
             gripCount += item.quantity; // Increment gripCount by the item's quantity
         }
     });
