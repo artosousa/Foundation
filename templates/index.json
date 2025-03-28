@@ -94,9 +94,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/pushheader.jpg",
-            "title": "JGB PUSH",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "JGB PUSH",
             "link": "shopify://blogs/catalog/jgb-push"
           }
         },
