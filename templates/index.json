@@ -75,9 +75,9 @@
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h2",
-        "blog": "catalog",
-        "post_limit": 2,
-        "columns_desktop": 1,
+        "blog": "news",
+        "post_limit": 4,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_image": true,
         "show_date": true,
