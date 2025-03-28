@@ -97,7 +97,7 @@
             "title": "JGB PUSH",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
-            "link": "https://foundation-skate.myshopify.com/blogs/catalog/jgb-push"
+            "link": "shopify://blogs/catalog/jgb-push"
           }
         },
         "column_QR3Hyb": {
