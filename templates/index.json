@@ -69,11 +69,29 @@
         "image_block_6MLN6W"
       ],
       "settings": {}
+    },
+    "featured_blog_y6ghVU": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "catalog",
+        "post_limit": 2,
+        "columns_desktop": 1,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "video_background_CEAADb",
     "featured_collection_gwJpHD",
-    "image_split_k44XzT"
+    "image_split_k44XzT",
+    "featured_blog_y6ghVU"
   ]
 }
