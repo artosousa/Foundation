@@ -126,6 +126,7 @@
         "column_QR3Hyb",
         "column_8DWqRt"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
