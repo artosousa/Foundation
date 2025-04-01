@@ -483,5 +483,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".color-inverse {background-attachment: url(https://cdn.shopify.com/s/files/1/0656/0484/5722/files/fback_web.jpg?v=1743547567);}"
+    ]
   }
 }
