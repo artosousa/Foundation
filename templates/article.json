@@ -188,22 +188,22 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/bubnispush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "Ryan Bubnis",
+            "text": "<p>Ryan Bubnis is a multidisciplinary artist, illustrator, and educator based in Portland, Oregon. Bold, graphic and deceptively simple, Bubnis’ imagery lives in the space between the abstract and representational. Equally influenced by DIY culture, art history, illustration, and design, he explores themes of memory, nostalgia, good vibes, and the human condition. Bubnis has collaborated with a number of commercial clients and agencies and his work has been exhibited across the U.S. and abroad. He is currently an Assistant Professor at The Pacific Northwest College of Art and is usually covered in cat hair.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_K64Lqk": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/houserpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "Jim Houser",
+            "text": "<p>Jim Houser was born in 1973 in Philadelphia, Pennsylvania, the city where he currently resides. He is a self-taught artist , musician and designer .  Houserʼs collages, paintings and installations have been exhibited extensively in institutions such as the Laguna Art Museum and the Philadelphia Academy of Fine Art  as well as galleries in Milan, Paris, Sydney and São Paulo. His work is included in the permanent collection of the Philadelphia Museum of Art . <br/><br/></p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_qWTENE": {
