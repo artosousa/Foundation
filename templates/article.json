@@ -122,9 +122,9 @@
           "type": "row",
           "settings": {
             "image": "{{ article.image }}",
-            "caption": "Caption",
-            "heading": "J. Grant Brittain",
-            "text": "<p>J. Grant Brittain started shooting photos at the Del Mar Skate Ranch in 1979 while he was working there as a worker bee and eventually as the pro shop manager. J. Grant Brittain had watched the top photographers of the 1970s come through the skatepark with various pro skaters in tow and admired their work in the magazines months after they shot the photos. After borrowing his roommate's camera in February of 1979, He was immediately hooked on shooting. He honed my photographic skills by shooting friends flying out of the cement bowls over the next few years.</p><p>His skate photos have been featured in magazines, books, and photo shows around the world.</p>",
+            "caption": "",
+            "heading": "JGB PUSH",
+            "text": "",
             "button_label": "BUY",
             "button_link": "shopify://collections/push"
           }
@@ -133,11 +133,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/jgbpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "J. GRANT BRITTAIN",
+            "text": "<p>J. Grant Brittain started shooting photos at the Del Mar Skate Ranch in 1979 while he was working there as a worker bee and eventually as the pro shop manager. J. Grant Brittain had watched the top photographers of the 1970s come through the skatepark with various pro skaters in tow and admired their work in the magazines months after they shot the photos. After borrowing his roommate's camera in February of 1979, He was immediately hooked on shooting. He honed my photographic skills by shooting friends flying out of the cement bowls over the next few years.His skate photos have been featured in magazines, books, and photo shows around the world.</p>",
+            "button_label": "BUY",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_4XBPGd": {
@@ -145,7 +145,7 @@
           "settings": {
             "image": "shopify://shop_images/ramseypush.jpg",
             "caption": "",
-            "heading": "Ramsey Dau",
+            "heading": "RAMSEY DAU",
             "text": "<p>Ramsey Dau’s paintings call into question the cultural status and value system of visual art. While they may at first resemble ad hoc paper constructions or collages, on closer inspection they reveal themselves to be fastidiously painted, hyperrealist illusions.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -191,6 +191,17 @@
             "caption": "",
             "heading": "Ryan Bubnis",
             "text": "<p>Ryan Bubnis is a multidisciplinary artist, illustrator, and educator based in Portland, Oregon. Bold, graphic and deceptively simple, Bubnis’ imagery lives in the space between the abstract and representational. Equally influenced by DIY culture, art history, illustration, and design, he explores themes of memory, nostalgia, good vibes, and the human condition. Bubnis has collaborated with a number of commercial clients and agencies and his work has been exhibited across the U.S. and abroad. He is currently an Assistant Professor at The Pacific Northwest College of Art and is usually covered in cat hair.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_ARBzQn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/arenvpush.jpg",
+            "caption": "Caption",
+            "heading": "AREN VANDENBURGH",
+            "text": "<p>Illustrator and designer living in Eugene, Oregon USA.   Like's making pictures of critters, plants, little houses, and the moon!</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
@@ -292,6 +303,7 @@
         "row_XKyLB3",
         "row_gXbbWE",
         "row_rQCtBN",
+        "row_ARBzQn",
         "row_K64Lqk",
         "row_qWTENE",
         "row_nrGjDc",
