@@ -177,11 +177,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/jenkinspush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "Andy Jenkins",
+            "text": "<p>Andy Jenkins is a multidisciplinary artist, artistic director and creative conduit. He orchestrates and collaborates with outstanding multi-media artists to generate innovative results, helping elevate brands, those involved, and, ultimately, the people who will see, use and be inspired by the outcome.<br/><br/></p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_rQCtBN": {
