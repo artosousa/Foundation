@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify://shop_images/coulsonpush.jpg",
             "caption": "",
-            "heading": "<a href=\"https://www.instagram.com/coulson/\" target=\"_blank\" title=\"https://www.instagram.com/coulson/\">Ryan Coulson</a>",
+            "heading": "RYAN COULSON",
             "text": "<p><br/>William Ryan Coulson is a skateboarder and artist based in Canada.<br/><br/></p>",
             "button_label": "Button label",
             "button_link": ""
@@ -178,7 +178,7 @@
           "settings": {
             "image": "shopify://shop_images/jenkinspush.jpg",
             "caption": "",
-            "heading": "Andy Jenkins",
+            "heading": "ANDY JENKINS",
             "text": "<p>Andy Jenkins is a multidisciplinary artist, artistic director and creative conduit. He orchestrates and collaborates with outstanding multi-media artists to generate innovative results, helping elevate brands, those involved, and, ultimately, the people who will see, use and be inspired by the outcome.<br/><br/></p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -211,7 +211,7 @@
           "settings": {
             "image": "shopify://shop_images/houserpush.jpg",
             "caption": "",
-            "heading": "Jim Houser",
+            "heading": "JIM HOUSER",
             "text": "<p>Jim Houser was born in 1973 in Philadelphia, Pennsylvania, the city where he currently resides. He is a self-taught artist , musician and designer .  Houserʼs collages, paintings and installations have been exhibited extensively in institutions such as the Laguna Art Museum and the Philadelphia Academy of Fine Art  as well as galleries in Milan, Paris, Sydney and São Paulo. His work is included in the permanent collection of the Philadelphia Museum of Art . <br/><br/></p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -222,7 +222,7 @@
           "settings": {
             "image": "shopify://shop_images/terminalpush.jpg",
             "caption": "",
-            "heading": "Terminal Radness",
+            "heading": "TERMINAL RADNESS",
             "text": "<p><br/>Growing up near the sandy shores of Southern California, artist Nick Guenzler’s creative expressions are heavily influenced by the coastal lifestyle. Often operating under the pseudonym ‘Terminal Radness,” his illustrations and designs stitch together skate and surf culture, doom metal, flagrant apathy, and public displays of sarcasm. He currently works and resides in Long Beach, CA.<br/><br/></p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -255,7 +255,7 @@
           "settings": {
             "image": "shopify://shop_images/templetonpush.jpg",
             "caption": "",
-            "heading": "Ed Templeton",
+            "heading": "ED TEMPLETON",
             "text": "<p><br/>Ed Templeton is an professional skateboarder, contemporary artist, and photographer. He is the founder of the skateboard company, Toy Machine, a company that he continues to own and manage. He is based in Huntington Beach, California. Templeton was inducted into the Skateboard Hall of Fame in 2016<br/><br/></p>",
             "button_label": "BUY",
             "button_link": "shopify://products/templeton-push-8-25"
@@ -266,7 +266,7 @@
           "settings": {
             "image": "shopify://shop_images/mikegiantpush.jpg",
             "caption": "",
-            "heading": "Mike Giant",
+            "heading": "MIKE GIANT",
             "text": "<p><br/>Birth, Upstate New York, 1971.  Drawing.  Cycling.  New Mexico, 1979.  Heavy Metal.  Skateboarding.  Punk Rock.  Hip-Hop.  First Job: McDonald’s.  Scotland, England, Denmark, Sweden, Finland, USSR.  Honors Graduate, 1989.  Thailand.  Architecture Student At University Of New Mexico.  Dishwashing Jobs.  Raves.  Lorelei.  Stop Eating Meat.  First Tattoo.  Think Skateboards, SF, 1993.  Dharma.  Angi.  London, 1998.  Adult Bookstore Employee.  Computer Animation Job.  Start Tattooing.  First Tattoo Shop Job:  East Side Inc, NYC, 1999.  Newskool Tattoo, San Jose.  The Skullz Press Founded, 2000.  Everlasting Tattoo.  Track Bikes.  Brooke And Leia.  Tattoo 13, Oakland, 2002.  Plum Village, France.  Stay Gold Tattoo Founded, Albuquerque.  REBEL8 Founded, 2003.  Manifestations Book.  Australia.  Eternal Book.  Megan.  El Salvador.  Amsterdam, 2008.  Skullz Press Store, SF, 2009.  Los Angeles, 2013.  Boulder, 2014.  Lauren.  Motorcycling.  Right Here.  Right Now.<br/><br/></p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -277,8 +277,19 @@
           "settings": {
             "image": "shopify://shop_images/henryjonespush.jpg",
             "caption": "",
-            "heading": "Henry Jones",
+            "heading": "HENRY JONES",
             "text": "<p>Illustrator and skateboarder Henry Jones grew up in Downingtown, a small town in Pennsylvania. Aged 20, he moved to West Chester – Bam Margera's hometown and the site of much of the Jackass and CKY footage – and got a job at a skate shop called Fairman's. There, listening to the stories skaters told on the shop floor, he was inspired to create his-now signature satirical skate sketches.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_badCVC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/lowerypush.jpg",
+            "caption": "",
+            "heading": "JEFF LOWRY",
+            "text": "<p>Jeff  is Tucson based illustrator. His style can be described as a mishmash of the 90’s, cartoons, bad movies, comics and far too many video games. <br/>He received his BFA in illustration from University of Arizona and his MFA in illustration from the School of Visual Arts. </p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
@@ -288,7 +299,7 @@
           "settings": {
             "image": "shopify://shop_images/wilkinsorthopush.jpg",
             "caption": "",
-            "heading": "Kevin Wilkins",
+            "heading": "KEVIN WILKINS",
             "text": "<p>Kevin Wilkins is kind of like the Forest Gump of skateboarding. He’s managed to be involved in so many awesome parts of skateboard history and he’s been around for so many of its most iconic moments. His phone is packed to the gills with the numbers of your favorite pros as he’s probably interviewed every one of them. I’m not trying to set Kevin up as some sort of skateboarding socialite, because he actually does stuff too. Kevin has been one of the top wordsmiths in our community for the last 20 years, he has a keen eye for amazing skateboarding and now he’s taken quite a fancy to ink and paper, but with pictures instead of words. Kevin has been scribbling some of his favorite skate photos for his blog called, “The Good Problem” in between writing the meat and potatoes. </p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -311,6 +322,7 @@
         "row_fcJKKU",
         "row_WA66EQ",
         "row_m8LmNH",
+        "row_badCVC",
         "row_gFHWLw"
       ],
       "settings": {
