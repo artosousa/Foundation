@@ -153,6 +153,84 @@
         "row_4Dhj9f": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/bratrudpush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_nR3PKL": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fishpush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_XKyLB3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/coulsonpush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_gXbbWE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/jenkinspush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_rQCtBN": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/bubnispush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_K64Lqk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/houserpush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_qWTENE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/terminalpush.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_nrGjDc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/mellowcatpush.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -165,7 +243,14 @@
         "row_NfLn4p",
         "row_kRkCGL",
         "row_4XBPGd",
-        "row_4Dhj9f"
+        "row_4Dhj9f",
+        "row_nR3PKL",
+        "row_XKyLB3",
+        "row_gXbbWE",
+        "row_rQCtBN",
+        "row_K64Lqk",
+        "row_qWTENE",
+        "row_nrGjDc"
       ],
       "settings": {
         "image_height": "medium",
