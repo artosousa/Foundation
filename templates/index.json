@@ -87,6 +87,59 @@
         "padding_bottom": 24
       }
     },
+    "multicolumn_yX4PWp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NWHcJk": {
+          "type": "column",
+          "settings": {
+            "title": "DECKS",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6W7pNJ": {
+          "type": "column",
+          "settings": {
+            "title": "APPAREL",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_R67enF": {
+          "type": "column",
+          "settings": {
+            "title": "HARDWARE",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_NWHcJk",
+        "column_6W7pNJ",
+        "column_R67enF"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_94VYMh": {
       "type": "multicolumn",
       "blocks": {
@@ -149,6 +202,7 @@
     "featured_collection_gwJpHD",
     "image_split_k44XzT",
     "featured_blog_y6ghVU",
+    "multicolumn_yX4PWp",
     "multicolumn_94VYMh"
   ]
 }
