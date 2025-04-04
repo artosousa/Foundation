@@ -144,11 +144,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/ramseypush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "Ramsey Dau",
+            "text": "<p>Ramsey Dau’s paintings call into question the cultural status and value system of visual art. While they may at first resemble ad hoc paper constructions or collages, on closer inspection they reveal themselves to be fastidiously painted, hyperrealist illusions.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_4Dhj9f": {
