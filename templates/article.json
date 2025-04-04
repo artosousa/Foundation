@@ -155,11 +155,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/bratrudpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "",
+            "heading": "TODD BRATRUD",
+            "text": "<p>Todd Bratrud is an illustrator and artist born in 1975 in Crookston, Minnesota, on the same day as the wreck of the S.S. Edmund Fitzgerald. He is the owner of Send Help skateboards, previously known as The High Five skateboards. He is currently living in Grand Forks, North Dakota.<br/><br/></p>",
+            "button_label": "BUY",
+            "button_link": "shopify://products/bratrud-push-8-39"
           }
         },
         "row_XKyLB3": {
@@ -238,6 +238,17 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "row_fcJKKU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/templetonpush.jpg",
+            "caption": "",
+            "heading": "Ed Templeton",
+            "text": "<p><br/>Ed Templeton is an professional skateboarder, contemporary artist, and photographer. He is the founder of the skateboard company, Toy Machine, a company that he continues to own and manage. He is based in Huntington Beach, California. Templeton was inducted into the Skateboard Hall of Fame in 2016<br/><br/></p>",
+            "button_label": "BUY",
+            "button_link": "shopify://products/templeton-push-8-25"
+          }
         }
       },
       "block_order": [
@@ -251,7 +262,8 @@
         "row_K64Lqk",
         "row_qWTENE",
         "row_nrGjDc",
-        "row_nR3PKL"
+        "row_nR3PKL",
+        "row_fcJKKU"
       ],
       "settings": {
         "image_height": "adapt",
