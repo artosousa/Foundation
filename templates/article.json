@@ -235,8 +235,8 @@
             "caption": "",
             "heading": "JEREMY FISH",
             "text": "<p>With a degree in painting and a focus in screenprinting Jeremy's education and work experience has lead to a career as a fine artist, and a commercial illustrator. Finding a balance between exhibiting his work both across the US, and internationally in galleries and museums. while maintaining a presence designing skateboards, t-shirts, vinyl toys, album covers, periodical illustrations, murals, and sneakers. The artwork is mainly about storytelling and communication, told through a library of characters and symbols. With an emphasis on finding a balance with the imagery somewhere between all things cute and creepy. </p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_fcJKKU": {
@@ -248,6 +248,17 @@
             "text": "<p><br/>Ed Templeton is an professional skateboarder, contemporary artist, and photographer. He is the founder of the skateboard company, Toy Machine, a company that he continues to own and manage. He is based in Huntington Beach, California. Templeton was inducted into the Skateboard Hall of Fame in 2016<br/><br/></p>",
             "button_label": "BUY",
             "button_link": "shopify://products/templeton-push-8-25"
+          }
+        },
+        "row_WA66EQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/mikegiantpush.jpg",
+            "caption": "",
+            "heading": "Mike Giant",
+            "text": "<p><br/>Birth, Upstate New York, 1971.  Drawing.  Cycling.  New Mexico, 1979.  Heavy Metal.  Skateboarding.  Punk Rock.  Hip-Hop.  First Job: McDonald’s.  Scotland, England, Denmark, Sweden, Finland, USSR.  Honors Graduate, 1989.  Thailand.  Architecture Student At University Of New Mexico.  Dishwashing Jobs.  Raves.  Lorelei.  Stop Eating Meat.  First Tattoo.  Think Skateboards, SF, 1993.  Dharma.  Angi.  London, 1998.  Adult Bookstore Employee.  Computer Animation Job.  Start Tattooing.  First Tattoo Shop Job:  East Side Inc, NYC, 1999.  Newskool Tattoo, San Jose.  The Skullz Press Founded, 2000.  Everlasting Tattoo.  Track Bikes.  Brooke And Leia.  Tattoo 13, Oakland, 2002.  Plum Village, France.  Stay Gold Tattoo Founded, Albuquerque.  REBEL8 Founded, 2003.  Manifestations Book.  Australia.  Eternal Book.  Megan.  El Salvador.  Amsterdam, 2008.  Skullz Press Store, SF, 2009.  Los Angeles, 2013.  Boulder, 2014.  Lauren.  Motorcycling.  Right Here.  Right Now.<br/><br/></p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         }
       },
@@ -263,7 +274,8 @@
         "row_qWTENE",
         "row_nrGjDc",
         "row_nR3PKL",
-        "row_fcJKKU"
+        "row_fcJKKU",
+        "row_WA66EQ"
       ],
       "settings": {
         "image_height": "adapt",
