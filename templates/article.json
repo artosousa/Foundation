@@ -161,24 +161,13 @@
             "button_link": ""
           }
         },
-        "row_nR3PKL": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/fishpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
         "row_XKyLB3": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/coulsonpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "caption": "",
+            "heading": "<a href=\"https://www.instagram.com/coulson/\" target=\"_blank\" title=\"https://www.instagram.com/coulson/\">Ryan Coulson</a>",
+            "text": "<p><br/>William Ryan Coulson is a skateboarder and artist based in Canada.<br/><br/></p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -220,7 +209,7 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/terminalpush.jpg",
-            "caption": "Caption",
+            "caption": "",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "Button label",
@@ -231,9 +220,20 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/mellowcatpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "caption": "",
+            "heading": "TED RICHARDS",
+            "text": "<p>Mellow Cat by Ted Richards was the first skateboard cartoon strip and appeared in Skateboarder Magazine from 1978 to 1981. The Mellow Cat character is based upon a real person from La Jolla, California, who was known around Surfer Publications as \"Mellow Cat,\" an avid surfer, turned skateboard guru - Kurt \"Mellow Cat\" Ledterman.<br/><br/></p>",
+            "button_label": "BUY",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_nR3PKL": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fishpush.jpg",
+            "caption": "",
+            "heading": "JEREMY FISH",
+            "text": "<p>With a degree in painting and a focus in screenprinting Jeremy's education and work experience has lead to a career as a fine artist, and a commercial illustrator. Finding a balance between exhibiting his work both across the US, and internationally in galleries and museums. while maintaining a presence designing skateboards, t-shirts, vinyl toys, album covers, periodical illustrations, murals, and sneakers. The artwork is mainly about storytelling and communication, told through a library of characters and symbols. With an emphasis on finding a balance with the imagery somewhere between all things cute and creepy. </p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -244,13 +244,13 @@
         "row_kRkCGL",
         "row_4XBPGd",
         "row_4Dhj9f",
-        "row_nR3PKL",
         "row_XKyLB3",
         "row_gXbbWE",
         "row_rQCtBN",
         "row_K64Lqk",
         "row_qWTENE",
-        "row_nrGjDc"
+        "row_nrGjDc",
+        "row_nR3PKL"
       ],
       "settings": {
         "image_height": "medium",
