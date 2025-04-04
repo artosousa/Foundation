@@ -211,10 +211,10 @@
           "settings": {
             "image": "shopify://shop_images/terminalpush.jpg",
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Terminal Radness",
+            "text": "<p><br/>Growing up near the sandy shores of Southern California, artist Nick Guenzler’s creative expressions are heavily influenced by the coastal lifestyle. Often operating under the pseudonym ‘Terminal Radness,” his illustrations and designs stitch together skate and surf culture, doom metal, flagrant apathy, and public displays of sarcasm. He currently works and resides in Long Beach, CA.<br/><br/></p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_nrGjDc": {
@@ -260,6 +260,17 @@
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
+        },
+        "row_m8LmNH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/henryjonespush.jpg",
+            "caption": "",
+            "heading": "Henry Jones",
+            "text": "<p>Illustrator and skateboarder Henry Jones grew up in Downingtown, a small town in Pennsylvania. Aged 20, he moved to West Chester – Bam Margera's hometown and the site of much of the Jackass and CKY footage – and got a job at a skate shop called Fairman's. There, listening to the stories skaters told on the shop floor, he was inspired to create his-now signature satirical skate sketches.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
         }
       },
       "block_order": [
@@ -275,7 +286,8 @@
         "row_nrGjDc",
         "row_nR3PKL",
         "row_fcJKKU",
-        "row_WA66EQ"
+        "row_WA66EQ",
+        "row_m8LmNH"
       ],
       "settings": {
         "image_height": "adapt",
