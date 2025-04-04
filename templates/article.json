@@ -123,10 +123,10 @@
           "settings": {
             "image": "{{ article.image }}",
             "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "J. Grant Brittain",
+            "text": "<p>J. Grant Brittain started shooting photos at the Del Mar Skate Ranch in 1979 while he was working there as a worker bee and eventually as the pro shop manager. J. Grant Brittain had watched the top photographers of the 1970s come through the skatepark with various pro skaters in tow and admired their work in the magazines months after they shot the photos. After borrowing his roommate's camera in February of 1979, He was immediately hooked on shooting. He honed my photographic skills by shooting friends flying out of the cement bowls over the next few years.</p><p>His skate photos have been featured in magazines, books, and photo shows around the world.</p>",
+            "button_label": "BUY",
+            "button_link": "shopify://collections/push"
           }
         },
         "row_kRkCGL": {
