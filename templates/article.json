@@ -271,6 +271,17 @@
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
+        },
+        "row_gFHWLw": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wilkinsorthopush.jpg",
+            "caption": "",
+            "heading": "Kevin Wilkins",
+            "text": "<p>Kevin Wilkins is kind of like the Forest Gump of skateboarding. He’s managed to be involved in so many awesome parts of skateboard history and he’s been around for so many of its most iconic moments. His phone is packed to the gills with the numbers of your favorite pros as he’s probably interviewed every one of them. I’m not trying to set Kevin up as some sort of skateboarding socialite, because he actually does stuff too. Kevin has been one of the top wordsmiths in our community for the last 20 years, he has a keen eye for amazing skateboarding and now he’s taken quite a fancy to ink and paper, but with pictures instead of words. Kevin has been scribbling some of his favorite skate photos for his blog called, “The Good Problem” in between writing the meat and potatoes. </p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
         }
       },
       "block_order": [
@@ -287,7 +298,8 @@
         "row_nR3PKL",
         "row_fcJKKU",
         "row_WA66EQ",
-        "row_m8LmNH"
+        "row_m8LmNH",
+        "row_gFHWLw"
       ],
       "settings": {
         "image_height": "adapt",
