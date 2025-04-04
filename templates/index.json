@@ -116,28 +116,48 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_kGJDwh": {
+          "type": "column",
+          "settings": {
+            "title": "ACCESSORIES",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RVhAbE": {
+          "type": "column",
+          "settings": {
+            "title": "COMPLETES",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_NWHcJk",
         "column_6W7pNJ",
-        "column_R67enF"
+        "column_R67enF",
+        "column_kGJDwh",
+        "column_RVhAbE"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_94VYMh": {
@@ -166,6 +186,52 @@
         "column_8DWqRt": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/richardvaughanpush.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XHpTCy": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_878wjK": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b6fVLh": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3XnVkb": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hCLY3k": {
+          "type": "column",
+          "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -176,7 +242,12 @@
       "block_order": [
         "column_hJtxfz",
         "column_QR3Hyb",
-        "column_8DWqRt"
+        "column_8DWqRt",
+        "column_XHpTCy",
+        "column_878wjK",
+        "column_b6fVLh",
+        "column_3XnVkb",
+        "column_hCLY3k"
       ],
       "disabled": true,
       "settings": {
