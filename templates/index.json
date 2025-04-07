@@ -201,7 +201,7 @@
           "type": "image_block",
           "settings": {
             "link_label": "JGB PUSH",
-            "link_url": "shopify://pages/jgb-push-2"
+            "link_url": "shopify://blogs/catalog/jgb-push"
           }
         },
         "image_block_gLLRDi": {
@@ -255,7 +255,6 @@
         "column_hJtxfz",
         "column_QR3Hyb"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
