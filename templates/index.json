@@ -193,6 +193,7 @@
         "image_block_tmjaqG": {
           "type": "image_block",
           "settings": {
+            "image": "shopify://shop_images/ty_fall2531.jpg",
             "link_label": "CATALOG",
             "link_url": "shopify://pages/summer-2025"
           }
@@ -200,6 +201,7 @@
         "image_block_BcTa43": {
           "type": "image_block",
           "settings": {
+            "image": "shopify://shop_images/ty_fall2587.jpg",
             "link_label": "JGB PUSH",
             "link_url": "shopify://blogs/catalog/jgb-push"
           }
@@ -255,6 +257,7 @@
         "column_hJtxfz",
         "column_QR3Hyb"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
