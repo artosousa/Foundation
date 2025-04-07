@@ -149,7 +149,7 @@
           "type": "image_block",
           "settings": {
             "link_label": "ACCESSORIES",
-            "link_url": ""
+            "link_url": "shopify://collections/accessories"
           }
         },
         "image_block_iMamVb": {
