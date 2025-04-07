@@ -32,7 +32,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/foundation_Logo.svg",
-            "image_width": 540,
+            "image_width": 180,
             "alignment": "center"
           }
         },
@@ -40,7 +40,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/FooterLogo3.png",
-            "image_width": 75,
+            "image_width": 200,
             "alignment": "center"
           }
         }
