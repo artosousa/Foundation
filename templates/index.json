@@ -156,7 +156,7 @@
           "type": "image_block",
           "settings": {
             "link_label": "COMPLETES",
-            "link_url": ""
+            "link_url": "shopify://collections/completes"
           }
         }
       },
