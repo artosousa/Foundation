@@ -213,6 +213,20 @@
             "link_url": "https://www.instagram.com/foundationskateboards/?hl=en"
           }
         },
+        "image_block_fP9JWL": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_w9TCKk": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
         "image_block_kfWtkF": {
           "type": "image_block",
           "settings": {
@@ -225,6 +239,8 @@
         "image_block_tmjaqG",
         "image_block_BcTa43",
         "image_block_gLLRDi",
+        "image_block_fP9JWL",
+        "image_block_w9TCKk",
         "image_block_kfWtkF"
       ],
       "settings": {}
