@@ -223,14 +223,14 @@
         "image_block_w9TCKk": {
           "type": "image_block",
           "settings": {
-            "link_label": "",
-            "link_url": ""
+            "link_label": "VIDEO",
+            "link_url": "https://foundation-skate.myshopify.com/pages/videos"
           }
         },
         "image_block_kfWtkF": {
           "type": "image_block",
           "settings": {
-            "link_label": "",
+            "link_label": "THE MIGHTY F",
             "link_url": ""
           }
         }
