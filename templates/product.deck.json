@@ -227,7 +227,7 @@
         "heading": "",
         "heading_size": "h2",
         "products_to_show": 4,
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "inverse",
         "image_ratio": "square",
         "image_shape": "default",
