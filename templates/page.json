@@ -21,6 +21,21 @@
       "type": "image-split",
       "settings": {}
     },
+    "video_Ee9QxY": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Banner.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_no_title_NEHDea": {
       "type": "image-banner-no-title",
       "blocks": {
@@ -127,6 +142,7 @@
     "image_split_wqMBLH",
     "image_banner_no_title_NEHDea",
     "image_split_ECdaPH",
-    "image_split_jq9yDi"
+    "image_split_jq9yDi",
+    "video_Ee9QxY"
   ]
 }
