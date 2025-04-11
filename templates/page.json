@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -18,20 +19,55 @@
     },
     "image_split_wqMBLH": {
       "type": "image-split",
+      "settings": {}
+    },
+    "image_banner_no_title_NEHDea": {
+      "type": "image-banner-no-title",
       "blocks": {
-        "image_block_W69kAn": {
-          "type": "image_block",
+        "heading_CTrbeR": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/f_fall25cover.jpg",
-            "link_label": "",
-            "link_url": ""
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_ybyfcw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_miDzmX": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "image_block_W69kAn"
+        "heading_CTrbeR",
+        "text_ybyfcw",
+        "buttons_miDzmX"
       ],
-      "settings": {}
+      "settings": {
+        "image": "shopify://shop_images/f_fall25cover.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "image_split_ECdaPH": {
       "type": "image-split",
@@ -63,6 +99,7 @@
   "order": [
     "main",
     "image_split_wqMBLH",
+    "image_banner_no_title_NEHDea",
     "image_split_ECdaPH"
   ]
 }
