@@ -47,7 +47,7 @@
     "card_style": "standard",
     "card_image_padding": 0,
     "card_text_alignment": "center",
-    "card_color_scheme": "background-1",
+    "card_color_scheme": "inverse",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 0,
@@ -484,5 +484,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".color-inverse {background-image: url(https://cdn.shopify.com/s/files/1/0656/0484/5722/files/fback_web.jpg?v=1743547567); backgreound-position: cover;}"
+    ]
   }
 }
