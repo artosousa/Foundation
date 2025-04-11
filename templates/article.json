@@ -46,25 +46,15 @@
         "share",
         "content"
       ],
-      "disabled": true,
       "settings": {}
     },
     "multirow_9TnVkU": {
       "type": "multirow",
       "blocks": {
-        "row_bifXQB": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
         "row_beLXQD": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/mikegiantpush.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -75,6 +65,7 @@
         "row_V3DTN9": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/mellowcatpush.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -85,6 +76,7 @@
         "row_MgMJWF": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/lowerypush.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -94,7 +86,6 @@
         }
       },
       "block_order": [
-        "row_bifXQB",
         "row_beLXQD",
         "row_V3DTN9",
         "row_MgMJWF"
@@ -116,236 +107,63 @@
         "padding_bottom": 36
       }
     },
-    "multirow_eCxMM4": {
-      "type": "multirow",
+    "multicolumn_3aatmR": {
+      "type": "multicolumn",
       "blocks": {
-        "row_NfLn4p": {
-          "type": "row",
+        "column_9yVLAj": {
+          "type": "column",
           "settings": {
-            "image": "{{ article.image }}",
-            "caption": "",
-            "heading": "JGB PUSH",
-            "text": "",
-            "button_label": "BUY",
-            "button_link": "shopify://collections/push"
+            "title": "Austin Heilman",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "row_kRkCGL": {
-          "type": "row",
+        "column_iWwGeT": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/jgbpush.jpg",
-            "caption": "",
-            "heading": "J. GRANT BRITTAIN",
-            "text": "<p>J. Grant Brittain started shooting photos at the Del Mar Skate Ranch in 1979 while he was working there as a worker bee and eventually as the pro shop manager. J. Grant Brittain had watched the top photographers of the 1970s come through the skatepark with various pro skaters in tow and admired their work in the magazines months after they shot the photos. After borrowing his roommate's camera in February of 1979, He was immediately hooked on shooting. He honed my photographic skills by shooting friends flying out of the cement bowls over the next few years.His skate photos have been featured in magazines, books, and photo shows around the world.</p>",
-            "button_label": "BUY",
-            "button_link": "shopify://collections/push"
+            "title": "Dakota Servold",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "row_4XBPGd": {
-          "type": "row",
+        "column_WyUFN7": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ramseypush.jpg",
-            "caption": "",
-            "heading": "RAMSEY DAU",
-            "text": "<p>Ramsey Dau’s paintings call into question the cultural status and value system of visual art. While they may at first resemble ad hoc paper constructions or collages, on closer inspection they reveal themselves to be fastidiously painted, hyperrealist illusions.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_4Dhj9f": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/bratrudpush.jpg",
-            "caption": "",
-            "heading": "TODD BRATRUD",
-            "text": "<p>Todd Bratrud is an illustrator and artist born in 1975 in Crookston, Minnesota, on the same day as the wreck of the S.S. Edmund Fitzgerald. He is the owner of Send Help skateboards, previously known as The High Five skateboards. He is currently living in Grand Forks, North Dakota.<br/><br/></p>",
-            "button_label": "BUY",
-            "button_link": "shopify://products/bratrud-push-8-39"
-          }
-        },
-        "row_XKyLB3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/coulsonpush.jpg",
-            "caption": "",
-            "heading": "RYAN COULSON",
-            "text": "<p><br/>William Ryan Coulson is a skateboarder and artist based in Canada.<br/><br/></p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_gXbbWE": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/jenkinspush.jpg",
-            "caption": "",
-            "heading": "ANDY JENKINS",
-            "text": "<p>Andy Jenkins is a multidisciplinary artist, artistic director and creative conduit. He orchestrates and collaborates with outstanding multi-media artists to generate innovative results, helping elevate brands, those involved, and, ultimately, the people who will see, use and be inspired by the outcome.<br/><br/></p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_rQCtBN": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/bubnispush.jpg",
-            "caption": "",
-            "heading": "Ryan Bubnis",
-            "text": "<p>Ryan Bubnis is a multidisciplinary artist, illustrator, and educator based in Portland, Oregon. Bold, graphic and deceptively simple, Bubnis’ imagery lives in the space between the abstract and representational. Equally influenced by DIY culture, art history, illustration, and design, he explores themes of memory, nostalgia, good vibes, and the human condition. Bubnis has collaborated with a number of commercial clients and agencies and his work has been exhibited across the U.S. and abroad. He is currently an Assistant Professor at The Pacific Northwest College of Art and is usually covered in cat hair.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_ARBzQn": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/arenvpush.jpg",
-            "caption": "Caption",
-            "heading": "AREN VANDENBURGH",
-            "text": "<p>Illustrator and designer living in Eugene, Oregon USA.   Like's making pictures of critters, plants, little houses, and the moon!</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_K64Lqk": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/houserpush.jpg",
-            "caption": "",
-            "heading": "JIM HOUSER",
-            "text": "<p>Jim Houser was born in 1973 in Philadelphia, Pennsylvania, the city where he currently resides. He is a self-taught artist , musician and designer .  Houserʼs collages, paintings and installations have been exhibited extensively in institutions such as the Laguna Art Museum and the Philadelphia Academy of Fine Art  as well as galleries in Milan, Paris, Sydney and São Paulo. His work is included in the permanent collection of the Philadelphia Museum of Art . <br/><br/></p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_qWTENE": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/terminalpush.jpg",
-            "caption": "",
-            "heading": "TERMINAL RADNESS",
-            "text": "<p><br/>Growing up near the sandy shores of Southern California, artist Nick Guenzler’s creative expressions are heavily influenced by the coastal lifestyle. Often operating under the pseudonym ‘Terminal Radness,” his illustrations and designs stitch together skate and surf culture, doom metal, flagrant apathy, and public displays of sarcasm. He currently works and resides in Long Beach, CA.<br/><br/></p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_nrGjDc": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/mellowcatpush.jpg",
-            "caption": "",
-            "heading": "TED RICHARDS",
-            "text": "<p>Mellow Cat by Ted Richards was the first skateboard cartoon strip and appeared in Skateboarder Magazine from 1978 to 1981. The Mellow Cat character is based upon a real person from La Jolla, California, who was known around Surfer Publications as \"Mellow Cat,\" an avid surfer, turned skateboard guru - Kurt \"Mellow Cat\" Ledterman.<br/><br/></p>",
-            "button_label": "BUY",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_nR3PKL": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/fishpush.jpg",
-            "caption": "",
-            "heading": "JEREMY FISH",
-            "text": "<p>With a degree in painting and a focus in screenprinting Jeremy's education and work experience has lead to a career as a fine artist, and a commercial illustrator. Finding a balance between exhibiting his work both across the US, and internationally in galleries and museums. while maintaining a presence designing skateboards, t-shirts, vinyl toys, album covers, periodical illustrations, murals, and sneakers. The artwork is mainly about storytelling and communication, told through a library of characters and symbols. With an emphasis on finding a balance with the imagery somewhere between all things cute and creepy. </p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_fcJKKU": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/templetonpush.jpg",
-            "caption": "",
-            "heading": "ED TEMPLETON",
-            "text": "<p><br/>Ed Templeton is an professional skateboarder, contemporary artist, and photographer. He is the founder of the skateboard company, Toy Machine, a company that he continues to own and manage. He is based in Huntington Beach, California. Templeton was inducted into the Skateboard Hall of Fame in 2016<br/><br/></p>",
-            "button_label": "BUY",
-            "button_link": "shopify://products/templeton-push-8-25"
-          }
-        },
-        "row_WA66EQ": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/mikegiantpush.jpg",
-            "caption": "",
-            "heading": "MIKE GIANT",
-            "text": "<p><br/>Birth, Upstate New York, 1971.  Drawing.  Cycling.  New Mexico, 1979.  Heavy Metal.  Skateboarding.  Punk Rock.  Hip-Hop.  First Job: McDonald’s.  Scotland, England, Denmark, Sweden, Finland, USSR.  Honors Graduate, 1989.  Thailand.  Architecture Student At University Of New Mexico.  Dishwashing Jobs.  Raves.  Lorelei.  Stop Eating Meat.  First Tattoo.  Think Skateboards, SF, 1993.  Dharma.  Angi.  London, 1998.  Adult Bookstore Employee.  Computer Animation Job.  Start Tattooing.  First Tattoo Shop Job:  East Side Inc, NYC, 1999.  Newskool Tattoo, San Jose.  The Skullz Press Founded, 2000.  Everlasting Tattoo.  Track Bikes.  Brooke And Leia.  Tattoo 13, Oakland, 2002.  Plum Village, France.  Stay Gold Tattoo Founded, Albuquerque.  REBEL8 Founded, 2003.  Manifestations Book.  Australia.  Eternal Book.  Megan.  El Salvador.  Amsterdam, 2008.  Skullz Press Store, SF, 2009.  Los Angeles, 2013.  Boulder, 2014.  Lauren.  Motorcycling.  Right Here.  Right Now.<br/><br/></p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_m8LmNH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/henryjonespush.jpg",
-            "caption": "",
-            "heading": "HENRY JONES",
-            "text": "<p>Illustrator and skateboarder Henry Jones grew up in Downingtown, a small town in Pennsylvania. Aged 20, he moved to West Chester – Bam Margera's hometown and the site of much of the Jackass and CKY footage – and got a job at a skate shop called Fairman's. There, listening to the stories skaters told on the shop floor, he was inspired to create his-now signature satirical skate sketches.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_badCVC": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/lowerypush.jpg",
-            "caption": "",
-            "heading": "JEFF LOWRY",
-            "text": "<p>Jeff  is Tucson based illustrator. His style can be described as a mishmash of the 90’s, cartoons, bad movies, comics and far too many video games. <br/>He received his BFA in illustration from University of Arizona and his MFA in illustration from the School of Visual Arts. </p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_gFHWLw": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/wilkinsorthopush.jpg",
-            "caption": "",
-            "heading": "KEVIN WILKINS",
-            "text": "<p>Kevin Wilkins is kind of like the Forest Gump of skateboarding. He’s managed to be involved in so many awesome parts of skateboard history and he’s been around for so many of its most iconic moments. His phone is packed to the gills with the numbers of your favorite pros as he’s probably interviewed every one of them. I’m not trying to set Kevin up as some sort of skateboarding socialite, because he actually does stuff too. Kevin has been one of the top wordsmiths in our community for the last 20 years, he has a keen eye for amazing skateboarding and now he’s taken quite a fancy to ink and paper, but with pictures instead of words. Kevin has been scribbling some of his favorite skate photos for his blog called, “The Good Problem” in between writing the meat and potatoes. </p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
+            "title": "Ariana Spencer",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "row_NfLn4p",
-        "row_kRkCGL",
-        "row_4XBPGd",
-        "row_4Dhj9f",
-        "row_XKyLB3",
-        "row_gXbbWE",
-        "row_rQCtBN",
-        "row_ARBzQn",
-        "row_K64Lqk",
-        "row_qWTENE",
-        "row_nrGjDc",
-        "row_nR3PKL",
-        "row_fcJKKU",
-        "row_WA66EQ",
-        "row_m8LmNH",
-        "row_badCVC",
-        "row_gFHWLw"
+        "column_9yVLAj",
+        "column_iWwGeT",
+        "column_WyUFN7"
       ],
       "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
+        "title": "Multicolumn",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "multirow_9TnVkU",
-    "multirow_eCxMM4"
+    "multicolumn_3aatmR"
   ]
 }

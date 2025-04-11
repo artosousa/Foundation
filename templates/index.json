@@ -44,92 +44,9 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_yX4PWp": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_NWHcJk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/423417305_2006722079713963_8211804815877708463_n.jpg",
-            "title": "DECKS",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6W7pNJ": {
-          "type": "column",
-          "settings": {
-            "title": "APPAREL",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_R67enF": {
-          "type": "column",
-          "settings": {
-            "title": "HARDWARE",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kGJDwh": {
-          "type": "column",
-          "settings": {
-            "title": "ACCESSORIES",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_RVhAbE": {
-          "type": "column",
-          "settings": {
-            "title": "COMPLETES",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_NWHcJk",
-        "column_6W7pNJ",
-        "column_R67enF",
-        "column_kGJDwh",
-        "column_RVhAbE"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_split_k44XzT": {
       "type": "image-split",
       "blocks": {
-        "image_block_6MLN6W": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/HardGoods.jpg",
-            "link_label": "DECKS",
-            "link_url": "shopify://collections/decks"
-          }
-        },
         "image_block_GyiBCf": {
           "type": "image_block",
           "settings": {
@@ -138,168 +55,25 @@
             "link_url": "shopify://collections/apparel"
           }
         },
-        "image_block_aRYVCn": {
+        "image_block_6MLN6W": {
           "type": "image_block",
           "settings": {
-            "link_label": "HARDWARE",
-            "link_url": "shopify://collections/hardware"
-          }
-        },
-        "image_block_UPhyBt": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "ACCESSORIES",
-            "link_url": "shopify://collections/accessories"
-          }
-        },
-        "image_block_iMamVb": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "COMPLETES",
-            "link_url": "shopify://collections/completes"
+            "image": "shopify://shop_images/HardGoods.jpg",
+            "link_label": "DECKS",
+            "link_url": "shopify://collections/decks"
           }
         }
       },
       "block_order": [
-        "image_block_6MLN6W",
         "image_block_GyiBCf",
-        "image_block_aRYVCn",
-        "image_block_UPhyBt",
-        "image_block_iMamVb"
+        "image_block_6MLN6W"
       ],
       "settings": {}
-    },
-    "featured_blog_y6ghVU": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "blog": "catalog",
-        "post_limit": 2,
-        "columns_desktop": 2,
-        "color_scheme": "inverse",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
-    "image_split_zKq8Ur": {
-      "type": "image-split",
-      "blocks": {
-        "image_block_tmjaqG": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/ty_fall2531.jpg",
-            "link_label": "CATALOG",
-            "link_url": "shopify://pages/summer-2025"
-          }
-        },
-        "image_block_BcTa43": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/ty_fall2587.jpg",
-            "link_label": "JGB PUSH",
-            "link_url": "shopify://blogs/catalog/jgb-push"
-          }
-        },
-        "image_block_gLLRDi": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "INSTAGRAM",
-            "link_url": "https://www.instagram.com/foundationskateboards/?hl=en"
-          }
-        },
-        "image_block_fP9JWL": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "TEAM",
-            "link_url": "https://foundation-skate.myshopify.com/pages/team"
-          }
-        },
-        "image_block_w9TCKk": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "VIDEO",
-            "link_url": "https://foundation-skate.myshopify.com/pages/videos"
-          }
-        },
-        "image_block_kfWtkF": {
-          "type": "image_block",
-          "settings": {
-            "link_label": "THE MIGHTY F",
-            "link_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_block_tmjaqG",
-        "image_block_BcTa43",
-        "image_block_gLLRDi",
-        "image_block_fP9JWL",
-        "image_block_w9TCKk",
-        "image_block_kfWtkF"
-      ],
-      "disabled": true,
-      "settings": {}
-    },
-    "multicolumn_94VYMh": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hJtxfz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/pushheader.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "JGB PUSH",
-            "link": "shopify://blogs/catalog/jgb-push"
-          }
-        },
-        "column_QR3Hyb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/ty_fall2531.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "CATALOG SUMMER  2025",
-            "link": "shopify://blogs/catalog"
-          }
-        }
-      },
-      "block_order": [
-        "column_hJtxfz",
-        "column_QR3Hyb"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "inverse",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "video_background_CEAADb",
     "featured_collection_gwJpHD",
-    "multicolumn_yX4PWp",
-    "image_split_k44XzT",
-    "featured_blog_y6ghVU",
-    "image_split_zKq8Ur",
-    "multicolumn_94VYMh"
+    "image_split_k44XzT"
   ]
 }
