@@ -135,6 +135,7 @@
         "image_block_NrH84x": {
           "type": "image_block",
           "settings": {
+            "image": "shopify://shop_images/f_push_dck.jpg",
             "link_label": "JGB PUSH",
             "link_url": "shopify://blogs/jgb-push/jgb-push"
           }
