@@ -21,21 +21,6 @@
       "type": "image-split",
       "settings": {}
     },
-    "video_Ee9QxY": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/Banner.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_no_title_NEHDea": {
       "type": "image-banner-no-title",
       "blocks": {
@@ -135,6 +120,47 @@
         "image_block_BWKjpL"
       ],
       "settings": {}
+    },
+    "video_Ee9QxY": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Banner.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_split_9VGAmG": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_rwKyT3": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_julian_lonesome_dck.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_UVkLWW": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_julian_lonesome.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_rwKyT3",
+        "image_block_UVkLWW"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -143,6 +169,7 @@
     "image_banner_no_title_NEHDea",
     "image_split_ECdaPH",
     "image_split_jq9yDi",
-    "video_Ee9QxY"
+    "video_Ee9QxY",
+    "image_split_9VGAmG"
   ]
 }
