@@ -94,12 +94,39 @@
         "image_block_QdxFWJ"
       ],
       "settings": {}
+    },
+    "image_split_jq9yDi": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_RwEXUA": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_doodledaze_aidan.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_BWKjpL": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_doodledaze_dcks.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_RwEXUA",
+        "image_block_BWKjpL"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "main",
     "image_split_wqMBLH",
     "image_banner_no_title_NEHDea",
-    "image_split_ECdaPH"
+    "image_split_ECdaPH",
+    "image_split_jq9yDi"
   ]
 }
