@@ -120,12 +120,69 @@
         "image_block_fTrgWx"
       ],
       "settings": {}
+    },
+    "image_split_mWdx4B": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_RdtMrT": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "CATALOG",
+            "link_url": "shopify://pages/summer-2025"
+          }
+        },
+        "image_block_NrH84x": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_HxGGYC": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_meAdEt": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_UgbrYh": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_R9c9p6": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_RdtMrT",
+        "image_block_NrH84x",
+        "image_block_HxGGYC",
+        "image_block_meAdEt",
+        "image_block_UgbrYh",
+        "image_block_R9c9p6"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "video_background_CEAADb",
     "featured_collection_gwJpHD",
     "image_split_k44XzT",
-    "image_split_VgRBWC"
+    "image_split_VgRBWC",
+    "image_split_mWdx4B"
   ]
 }
