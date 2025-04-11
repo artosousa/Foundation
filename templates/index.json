@@ -100,8 +100,8 @@
         "image_block_yfWVJc": {
           "type": "image_block",
           "settings": {
-            "link_label": "",
-            "link_url": ""
+            "link_label": "Accessories",
+            "link_url": "shopify://collections/accessories"
           }
         },
         "image_block_fTrgWx": {
