@@ -127,6 +127,7 @@
         "image_block_RdtMrT": {
           "type": "image_block",
           "settings": {
+            "image": "shopify://shop_images/f_fall25cover.jpg",
             "link_label": "CATALOG",
             "link_url": "shopify://pages/summer-2025"
           }
