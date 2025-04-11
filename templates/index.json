@@ -68,12 +68,64 @@
         "image_block_GyiBCf",
         "image_block_6MLN6W"
       ],
+      "disabled": true,
+      "settings": {}
+    },
+    "image_split_VgRBWC": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_JKWtKb": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/HardGoods.jpg",
+            "link_label": "DECKS",
+            "link_url": "shopify://collections/decks"
+          }
+        },
+        "image_block_BxfAg8": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Apparel.jpg",
+            "link_label": "APPAREL",
+            "link_url": "shopify://collections/apparel"
+          }
+        },
+        "image_block_aeb8Rx": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "Hardware",
+            "link_url": "shopify://collections/hardware-1"
+          }
+        },
+        "image_block_yfWVJc": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_fTrgWx": {
+          "type": "image_block",
+          "settings": {
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_JKWtKb",
+        "image_block_BxfAg8",
+        "image_block_aeb8Rx",
+        "image_block_yfWVJc",
+        "image_block_fTrgWx"
+      ],
       "settings": {}
     }
   },
   "order": [
     "video_background_CEAADb",
     "featured_collection_gwJpHD",
-    "image_split_k44XzT"
+    "image_split_k44XzT",
+    "image_split_VgRBWC"
   ]
 }
