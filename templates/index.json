@@ -107,8 +107,8 @@
         "image_block_fTrgWx": {
           "type": "image_block",
           "settings": {
-            "link_label": "",
-            "link_url": ""
+            "link_label": "COMPLETES",
+            "link_url": "shopify://collections/completes"
           }
         }
       },
