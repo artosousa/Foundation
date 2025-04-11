@@ -141,8 +141,8 @@
         "image_block_HxGGYC": {
           "type": "image_block",
           "settings": {
-            "link_label": "",
-            "link_url": ""
+            "link_label": "TEAM",
+            "link_url": "shopify://pages/team"
           }
         },
         "image_block_meAdEt": {
