@@ -76,61 +76,6 @@
     "multirow_9TnVkU": {
       "type": "multirow",
       "blocks": {
-        "row_beLXQD": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/mikegiantpush.jpg",
-            "caption": "",
-            "heading": "Mike Giant",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_V3DTN9": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/mellowcatpush.jpg",
-            "caption": "Caption",
-            "heading": "Ted Richards",
-            "text": "<p>MELLOW CAT</p>",
-            "button_label": "BUY NOW",
-            "button_link": ""
-          }
-        },
-        "row_MgMJWF": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/lowerypush.jpg",
-            "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_CFMUPB": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/wilkinsorthopush.jpg",
-            "caption": "",
-            "heading": "Kevin Wilkins",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_yDRUcQ": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/bubnispush.jpg",
-            "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
         "row_NxGERY": {
           "type": "row",
           "settings": {
@@ -164,39 +109,6 @@
             "button_link": "shopify://products/bratrud-push-8-39"
           }
         },
-        "row_KzaPMz": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/ramseypush.jpg",
-            "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_LjJc8r": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/fishpush.jpg",
-            "caption": "",
-            "heading": "Jeremy Fish",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
-        "row_6P8CrV": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/jenkinspush.jpg",
-            "caption": "",
-            "heading": "Andy Jenkins",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "SOLD OUT",
-            "button_link": "shopify://collections/push"
-          }
-        },
         "row_JEbNJw": {
           "type": "row",
           "settings": {
@@ -208,12 +120,23 @@
             "button_link": "shopify://products/coulson-push-9"
           }
         },
-        "row_wxm3z9": {
+        "row_V3DTN9": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/henryjonespush.jpg",
+            "image": "shopify://shop_images/mellowcatpush.jpg",
+            "caption": "Caption",
+            "heading": "Ted Richards",
+            "text": "<p>MELLOW CAT</p>",
+            "button_label": "BUY NOW",
+            "button_link": ""
+          }
+        },
+        "row_beLXQD": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/mikegiantpush.jpg",
             "caption": "",
-            "heading": "Henry Jones",
+            "heading": "Mike Giant",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -230,12 +153,78 @@
             "button_link": "shopify://collections/push"
           }
         },
-        "row_gKBzWm": {
+        "row_CFMUPB": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/arenvpush.jpg",
+            "image": "shopify://shop_images/wilkinsorthopush.jpg",
             "caption": "",
-            "heading": "Aren V",
+            "heading": "Kevin Wilkins",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_LjJc8r": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fishpush.jpg",
+            "caption": "",
+            "heading": "Jeremy Fish",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_FmFfHG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/houserpush.jpg",
+            "caption": "",
+            "heading": "Jim Houser",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_6P8CrV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/jenkinspush.jpg",
+            "caption": "",
+            "heading": "Andy Jenkins",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_wxm3z9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/henryjonespush.jpg",
+            "caption": "",
+            "heading": "Henry Jones",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_MgMJWF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/lowerypush.jpg",
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_KzaPMz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/ramseypush.jpg",
+            "caption": "",
+            "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -252,12 +241,23 @@
             "button_link": "shopify://collections/push"
           }
         },
-        "row_FmFfHG": {
+        "row_yDRUcQ": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/houserpush.jpg",
+            "image": "shopify://shop_images/bubnispush.jpg",
             "caption": "",
-            "heading": "Jim Houser",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "SOLD OUT",
+            "button_link": "shopify://collections/push"
+          }
+        },
+        "row_gKBzWm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/arenvpush.jpg",
+            "caption": "",
+            "heading": "Aren V",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -265,23 +265,23 @@
         }
       },
       "block_order": [
-        "row_beLXQD",
-        "row_V3DTN9",
-        "row_MgMJWF",
-        "row_CFMUPB",
-        "row_yDRUcQ",
         "row_NxGERY",
         "row_QcGmyT",
         "row_DL7aM7",
-        "row_KzaPMz",
-        "row_LjJc8r",
-        "row_6P8CrV",
         "row_JEbNJw",
-        "row_wxm3z9",
+        "row_V3DTN9",
+        "row_beLXQD",
         "row_Pgjc6A",
-        "row_gKBzWm",
+        "row_CFMUPB",
+        "row_LjJc8r",
+        "row_FmFfHG",
+        "row_6P8CrV",
+        "row_wxm3z9",
+        "row_MgMJWF",
+        "row_KzaPMz",
         "row_dVgTDe",
-        "row_FmFfHG"
+        "row_yDRUcQ",
+        "row_gKBzWm"
       ],
       "settings": {
         "image_height": "medium",
