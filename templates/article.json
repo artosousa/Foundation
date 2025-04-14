@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/henryjonespush.jpg",
             "caption": "",
-            "heading": "Henry Jones",
+            "heading": "<a href=\"https://www.instagram.com/henryjones/\" target=\"_blank\" title=\"https://www.instagram.com/henryjones/\">Henry Jones</a>",
             "text": "<p>Illustrator and skateboarder Henry Jones grew up in Downingtown, a small town in Pennsylvania. Aged 20, he moved to West Chester – Bam Margera's hometown and the site of much of the Jackass and CKY footage – and got a job at a skate shop called Fairman's. There, listening to the stories skaters told on the shop floor, he was inspired to create his-now signature satirical skate sketches.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
