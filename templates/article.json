@@ -114,7 +114,7 @@
           "settings": {
             "image": "shopify://shop_images/coulsonpush.jpg",
             "caption": "",
-            "heading": "Ryan Coulson",
+            "heading": "<a href=\"https://www.instagram.com/coulson/\" target=\"_blank\" title=\"https://www.instagram.com/coulson/\">Ryan Coulson</a>",
             "text": "<p>William Ryan Coulson is a skateboarder and artist based in Canada.</p>",
             "button_label": "BUY NOW",
             "button_link": "shopify://products/coulson-push-9"
@@ -158,7 +158,7 @@
           "settings": {
             "image": "shopify://shop_images/wilkinsorthopush.jpg",
             "caption": "",
-            "heading": "Kevin Wilkins",
+            "heading": "<a href=\"https://www.instagram.com/kevinwilkins/\" target=\"_blank\" title=\"https://www.instagram.com/kevinwilkins/\">Kevin Wilkins</a>",
             "text": "<p>Kevin Wilkins is kind of like the Forest Gump of skateboarding. He’s managed to be involved in so many awesome parts of skateboard history and he’s been around for so many of its most iconic moments. His phone is packed to the gills with the numbers of your favorite pros as he’s probably interviewed every one of them. I’m not trying to set Kevin up as some sort of skateboarding socialite, because he actually does stuff too. Kevin has been one of the top wordsmiths in our community for the last 20 years, he has a keen eye for amazing skateboarding and now he’s taken quite a fancy to ink and paper, but with pictures instead of words. Kevin has been scribbling some of his favorite skate photos for his blog called, “The Good Problem” in between writing the meat and potatoes. </p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -169,7 +169,7 @@
           "settings": {
             "image": "shopify://shop_images/fishpush.jpg",
             "caption": "",
-            "heading": "Jeremy Fish",
+            "heading": "<a href=\"https://www.instagram.com/mrjeremyfish/\" target=\"_blank\" title=\"https://www.instagram.com/mrjeremyfish/\">Jeremy Fish</a>",
             "text": "<p>With a degree in painting and a focus in screenprinting Jeremy's education and work experience has lead to a career as a fine artist, and a commercial illustrator. Finding a balance between exhibiting his work both across the US, and internationally in galleries and museums. while maintaining a presence designing skateboards, t-shirts, viynl toys, album covers, periodical illustrations, murals, and sneakers. The artwork is mainly about storytelling and communication, told through a library of characters and symbols. With an emphasis on finding a balance with the imagery somewhere between all things cute and creepy. Jeremy is based in North Beach aka little italy, and has lived in San Francisco for the last 20 years.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
@@ -213,7 +213,7 @@
           "settings": {
             "image": "shopify://shop_images/lowerypush.jpg",
             "caption": "",
-            "heading": "Jeff Lowry",
+            "heading": "<a href=\"https://www.instagram.com/illhefe/\" target=\"_blank\" title=\"https://www.instagram.com/illhefe/\">Jeff Lowry</a>",
             "text": "<p>Jeff  is Tucson based illustrator. His style can be described as a mishmash of the 90’s, cartoons, bad movies, comics and far too many video games. <br/>He received his BFA in illustration from University of Arizona and his MFA in illustration from the School of Visual Arts. </p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
