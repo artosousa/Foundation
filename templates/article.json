@@ -80,20 +80,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/mikegiantpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
+            "caption": "",
+            "heading": "Mike Giant",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_JNTkPV": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "button_label": "SOLD OUT",
             "button_link": ""
           }
         },
@@ -102,9 +92,9 @@
           "settings": {
             "image": "shopify://shop_images/mellowcatpush.jpg",
             "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "heading": "Ted Richards",
+            "text": "<p>MELLOW CAT</p>",
+            "button_label": "BUY NOW",
             "button_link": ""
           }
         },
@@ -112,10 +102,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/lowerypush.jpg",
-            "caption": "Caption",
+            "caption": "",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "button_label": "SOLD OUT",
             "button_link": ""
           }
         },
@@ -124,9 +114,9 @@
           "settings": {
             "image": "shopify://shop_images/wilkinsorthopush.jpg",
             "caption": "Caption",
-            "heading": "Row",
+            "heading": "Kevin Wilkins",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "button_label": "SOLD OUT",
             "button_link": ""
           }
         },
@@ -134,10 +124,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/bubnispush.jpg",
-            "caption": "Caption",
+            "caption": "",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "button_label": "SOLD OUT",
             "button_link": ""
           }
         },
@@ -156,11 +146,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/templetonpush.jpg",
-            "caption": "Caption",
-            "heading": "Row",
+            "caption": "",
+            "heading": "Ed Templeton",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "BUY NOW",
+            "button_link": "shopify://products/templeton-push-8-25"
           }
         },
         "row_DL7aM7": {
@@ -276,7 +266,6 @@
       },
       "block_order": [
         "row_beLXQD",
-        "row_JNTkPV",
         "row_V3DTN9",
         "row_MgMJWF",
         "row_CFMUPB",
