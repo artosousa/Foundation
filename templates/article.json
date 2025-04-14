@@ -213,8 +213,8 @@
           "settings": {
             "image": "shopify://shop_images/lowerypush.jpg",
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Jeff",
+            "text": "<p><br/>Jeff  is Tucson based illustrator. His style can be described as a mishmash of the 90’s, cartoons, bad movies, comics and far too many video games. <br/>He received his BFA in illustration from University of Arizona and his MFA in illustration from the School of Visual Arts. <br/><br/></p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
@@ -224,8 +224,8 @@
           "settings": {
             "image": "shopify://shop_images/ramseypush.jpg",
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Ramsey Dau",
+            "text": "<p>Ramsey Dau’s paintings call into question the cultural status and value system of visual art. While they may at first resemble ad hoc paper constructions or collages, on closer inspection they reveal themselves to be fastidiously painted, hyperrealist illusions.</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
@@ -236,7 +236,7 @@
             "image": "shopify://shop_images/richardvaughanpush.jpg",
             "caption": "",
             "heading": "Richard Vaughn",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
@@ -258,7 +258,7 @@
             "image": "shopify://shop_images/arenvpush.jpg",
             "caption": "",
             "heading": "Aren V",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Illustrator and designer living in Eugene, Oregon USA.   Like's making pictures of critters, plants, little houses, and the moon!</p>",
             "button_label": "SOLD OUT",
             "button_link": "shopify://collections/push"
           }
