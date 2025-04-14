@@ -161,6 +161,32 @@
         "image_block_UVkLWW"
       ],
       "settings": {}
+    },
+    "image_split_W84VAY": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_itzD6V": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_impendingdoom.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_W7zxkP": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_impendingdoom_aj.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_itzD6V",
+        "image_block_W7zxkP"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -170,6 +196,7 @@
     "image_split_ECdaPH",
     "image_split_jq9yDi",
     "video_Ee9QxY",
-    "image_split_9VGAmG"
+    "image_split_9VGAmG",
+    "image_split_W84VAY"
   ]
 }
