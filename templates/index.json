@@ -77,37 +77,40 @@
         "image_block_JKWtKb": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/HardGoods.jpg",
-            "link_label": "DECKS",
+            "image": "shopify://shop_images/f_decks.jpg",
+            "link_label": "",
             "link_url": "shopify://collections/decks"
           }
         },
         "image_block_BxfAg8": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/Apparel.jpg",
-            "link_label": "APPAREL",
+            "image": "shopify://shop_images/f_apparel.jpg",
+            "link_label": "",
             "link_url": "shopify://collections/apparel"
           }
         },
         "image_block_aeb8Rx": {
           "type": "image_block",
           "settings": {
-            "link_label": "HARDWARE",
+            "image": "shopify://shop_images/f_hardware.jpg",
+            "link_label": "",
             "link_url": "shopify://collections/hardware-1"
           }
         },
         "image_block_yfWVJc": {
           "type": "image_block",
           "settings": {
-            "link_label": "ACCESSORIES",
+            "image": "shopify://shop_images/f_accessories.jpg",
+            "link_label": "",
             "link_url": "shopify://collections/accessories"
           }
         },
         "image_block_fTrgWx": {
           "type": "image_block",
           "settings": {
-            "link_label": "COMPLETES",
+            "image": "shopify://shop_images/f_completes.jpg",
+            "link_label": "",
             "link_url": "shopify://collections/completes"
           }
         }
@@ -127,44 +130,48 @@
         "image_block_RdtMrT": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_fall25cover.jpg",
-            "link_label": "CATALOG",
+            "image": "shopify://shop_images/f_catalog.jpg",
+            "link_label": "",
             "link_url": "shopify://pages/summer-2025"
           }
         },
         "image_block_NrH84x": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_push_dck.jpg",
-            "link_label": "JGB PUSH",
+            "image": "shopify://shop_images/f_jgbpush.jpg",
+            "link_label": "",
             "link_url": "shopify://blogs/jgb-push/jgb-push"
           }
         },
         "image_block_HxGGYC": {
           "type": "image_block",
           "settings": {
-            "link_label": "TEAM",
+            "image": "shopify://shop_images/f_team.jpg",
+            "link_label": "",
             "link_url": "shopify://pages/team"
           }
         },
         "image_block_meAdEt": {
           "type": "image_block",
           "settings": {
-            "link_label": "VIDEO",
+            "image": "shopify://shop_images/f_video.jpg",
+            "link_label": "",
             "link_url": ""
           }
         },
         "image_block_UgbrYh": {
           "type": "image_block",
           "settings": {
-            "link_label": "SWANK ZINE",
+            "image": "shopify://shop_images/f_swankzine.jpg",
+            "link_label": "",
             "link_url": ""
           }
         },
         "image_block_R9c9p6": {
           "type": "image_block",
           "settings": {
-            "link_label": "THE MIGHTY F",
+            "image": "shopify://shop_images/f_themightyf.jpg",
+            "link_label": "",
             "link_url": "https://www.instagram.com/foundationskateboards/?hl=en"
           }
         }
