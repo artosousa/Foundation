@@ -121,19 +121,11 @@
       ],
       "settings": {}
     },
-    "video_Ee9QxY": {
-      "type": "video",
+    "video_background_Yt6fTE": {
+      "type": "video-background",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
         "video": "shopify://files/videos/Banner.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "autoplay": true
       }
     },
     "image_split_9VGAmG": {
@@ -195,7 +187,7 @@
     "image_banner_no_title_NEHDea",
     "image_split_ECdaPH",
     "image_split_jq9yDi",
-    "video_Ee9QxY",
+    "video_background_Yt6fTE",
     "image_split_9VGAmG",
     "image_split_W84VAY"
   ]
