@@ -156,7 +156,7 @@
           "settings": {
             "image": "shopify://shop_images/f_video.jpg",
             "link_label": "",
-            "link_url": ""
+            "link_url": "shopify://pages/videos"
           }
         },
         "image_block_UgbrYh": {
