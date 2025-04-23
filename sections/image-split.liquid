@@ -1,20 +1,19 @@
 {%- style -%}
-  .image-block-section {
+  .{{section.id}}-image-block-section {
       display: flex;
       flex-direction: column;
       flex-wrap: wrap;
       gap: 0;
     }
   
-    .image-block-wrapper {
+    .{{section.id}}-image-block-section .image-block-wrapper {
       display: flex;
       flex-direction: column;
       width: 100%;
     }
 
-    .image-block {
+    .{{section.id}}-image-block-section .image-block {
       flex: 1 1 100%;
-      aspect-ratio: 1;
       background-size: 100%;
       display: flex;
       justify-content: center;
@@ -22,14 +21,30 @@
       position: relative;
       text-decoration: none;
       color: white;
-      transition: background-size 0.25s ease; /* Smooth transition */
+      
       background-position: center;
     }
-    .image-block:hover{
-      background-size: 100%;
-      
+    .{{section.id}}-image-block-section:not(.image-block-section--catalogue) .image-block{
+      aspect-ratio: 1;
     }
-    .image-block:after {
+    .{{section.id}}-image-block-section .image-block .bg{
+      position:absolute;
+      width:100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      overflow:hidden;
+    }
+    .{{section.id}}-image-block-section .image-block .bg img{
+      width: 100%;
+      height: 100%;
+      transition: all 0.25s ease; 
+      transform-origin: center center; 
+      object-fit: cover;
+    }
+   
+    .{{section.id}}-image-block-section .image-block:after {
       content: "";
       position: absolute;
       top: 0;
@@ -39,34 +54,49 @@
       background-color: rgba(0, 0, 0, 0);
     }
 
-    .image-block .content {
+    .{{section.id}}-image-block-section .image-block .content {
       position: absolute;
       z-index: 2;
       text-align: center;
     }
 
-    .image-block .link-label {
+    .{{section.id}}-image-block-section .image-block .link-label {
       font-size: 2.5rem;
       margin-top: 0.5rem;
       display: block;
     }
+  .image-block-section--catalogue .image-block .bg img{
+      width: 100%;
+      height: auto;
+      transition: all 0.25s ease; 
+      transform-origin: center center; 
+  }
   @media screen and (min-width: 770px){
-    .image-block-section {
+    .{{section.id}}-image-block-section {
       flex-direction: row;
     }
-    .image-block{
+    .{{section.id}}-image-block-section .image-block{
       flex: 1 1 50%;
     }
-    .image-block-wrapper {
+    .{{section.id}}-image-block-section .image-block-wrapper {
       flex-direction: row;
     }
   }
 {%- endstyle -%}
-
-<section class="image-block-section">
+<section class="{{section.id}}-image-block-section {% if template == "page.catalogue" %}image-block-section--catalogue{% endif %}">
   <div class="image-block-wrapper">
     {% for block in section.blocks %}
-      <a href="{{ block.settings.link_url }}" class="image-block" style="background-image: url('{{ block.settings.image | img_url: '800x800' }}');">
+      
+      {% assign aspect_ratio = block.settings.image.width | times: 1.0 | divided_by: block.settings.image.height %}
+      {% style %}
+        .image-block-section--catalogue .{{ block.id }}-image{
+          aspect-ratio: {{  aspect_ratio }};
+        }
+      {% endstyle %}
+      <a href="{{ block.settings.link_url }}" class="{{ block.id }}-image image-block" >
+        <div class="bg">
+          <img src="{{ block.settings.image | image_url }}" alt="{{ block.settings.image.alt }}" width="1000" height="1000">
+        </div>
         <div class="content">
           <span class="link-label">{{ block.settings.link_label }}</span>
         </div>
@@ -103,7 +133,7 @@
       ]
     }
   ],
-  "max_blocks": 6,
+  "max_blocks": 4,
   "presets": [
     {
       "name": "Two Column Image Blocks"
