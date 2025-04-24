@@ -12,6 +12,7 @@
     "add_grip": "star-and-moon-grip",
     "logo": "shopify://shop_images/foundation_Logo.svg",
     "logo_width": 90,
+    "favicon": "shopify://shop_images/foundation_Logo.svg",
     "map_api": "pk.eyJ1IjoiYXJ0b3NvdXNhIiwiYSI6ImNtNjh1NTUwZTBiNnAydW9jdjAxbHIydjcifQ.Fb5TaMg184yJ0pJO5KDICA",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
