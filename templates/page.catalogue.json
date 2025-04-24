@@ -56,7 +56,7 @@
         "buttons_miDzmX"
       ],
       "settings": {
-        "image": "shopify://shop_images/f_fall25cover.jpg",
+        "image": "shopify://shop_images/ds_sp2523.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -75,7 +75,7 @@
         "image_block_4cxzit": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_dakota_medieval.jpg",
+            "image": "shopify://shop_images/ds_sp2524.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -83,7 +83,7 @@
         "image_block_QdxFWJ": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_dakota_medieval_dck.jpg",
+            "image": "shopify://shop_images/ds_sp2525.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -101,7 +101,7 @@
         "image_block_RwEXUA": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_doodledaze_aidan.jpg",
+            "image": "shopify://shop_images/ds_sp2526.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -109,7 +109,7 @@
         "image_block_BWKjpL": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_doodledaze_dcks.jpg",
+            "image": "shopify://shop_images/ds_sp2527.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -134,7 +134,7 @@
         "image_block_rwKyT3": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_julian_lonesome_dck.jpg",
+            "image": "shopify://shop_images/ds_sp2528.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -142,7 +142,7 @@
         "image_block_UVkLWW": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_julian_lonesome.jpg",
+            "image": "shopify://shop_images/ds_sp2529.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -160,7 +160,7 @@
         "image_block_itzD6V": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_impendingdoom.jpg",
+            "image": "shopify://shop_images/ds_sp2530.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -168,7 +168,7 @@
         "image_block_W7zxkP": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_impendingdoom_aj.jpg",
+            "image": "shopify://shop_images/ds_sp2531.jpg",
             "link_label": "",
             "link_url": "shopify://products/campbell-feral-8-5"
           }
