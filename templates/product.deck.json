@@ -72,6 +72,14 @@
             "text_style": "body"
           }
         },
+        "text_9VdUyq": {
+          "type": "text",
+          "settings": {
+            "text": "Ships Assorted Top Color Ply",
+            "page": "",
+            "text_style": "body"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -190,6 +198,7 @@
         "text_XQAf9G",
         "description",
         "text_YgMzTM",
+        "text_9VdUyq",
         "price",
         "variant_picker",
         "quantity_selector",
