@@ -1,0 +1,202 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_split_wqMBLH": {
+      "type": "image-split",
+      "settings": {}
+    },
+    "image_banner_no_title_NEHDea": {
+      "type": "image-banner-no-title",
+      "blocks": {
+        "heading_CTrbeR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_ybyfcw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_miDzmX": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CTrbeR",
+        "text_ybyfcw",
+        "buttons_miDzmX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/f_fall25cover.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_split_ECdaPH": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_4cxzit": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_dakota_medieval.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_QdxFWJ": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_dakota_medieval_dck.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_4cxzit",
+        "image_block_QdxFWJ"
+      ],
+      "settings": {}
+    },
+    "image_split_jq9yDi": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_RwEXUA": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_doodledaze_aidan.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_BWKjpL": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_doodledaze_dcks.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_RwEXUA",
+        "image_block_BWKjpL"
+      ],
+      "settings": {}
+    },
+    "video_Ee9QxY": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Banner.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_split_9VGAmG": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_rwKyT3": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_julian_lonesome_dck.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_UVkLWW": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_julian_lonesome.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_rwKyT3",
+        "image_block_UVkLWW"
+      ],
+      "settings": {}
+    },
+    "image_split_W84VAY": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_itzD6V": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_impendingdoom.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_W7zxkP": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_impendingdoom_aj.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_itzD6V",
+        "image_block_W7zxkP"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "image_split_wqMBLH",
+    "image_banner_no_title_NEHDea",
+    "image_split_ECdaPH",
+    "image_split_jq9yDi",
+    "video_Ee9QxY",
+    "image_split_9VGAmG",
+    "image_split_W84VAY"
+  ]
+}
