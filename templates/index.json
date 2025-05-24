@@ -68,12 +68,142 @@
         "image_block_GyiBCf",
         "image_block_6MLN6W"
       ],
+      "disabled": true,
       "settings": {}
+    },
+    "image_split_VgRBWC": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_JKWtKb": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_decks.jpg",
+            "link_label": "",
+            "link_url": "shopify://collections/decks"
+          }
+        },
+        "image_block_BxfAg8": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_apparel.jpg",
+            "link_label": "",
+            "link_url": "shopify://collections/apparel"
+          }
+        },
+        "image_block_aeb8Rx": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_hardware.jpg",
+            "link_label": "",
+            "link_url": "shopify://collections/hardware-1"
+          }
+        },
+        "image_block_yfWVJc": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_accessories.jpg",
+            "link_label": "",
+            "link_url": "shopify://collections/accessories"
+          }
+        },
+        "image_block_fTrgWx": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_completes.jpg",
+            "link_label": "",
+            "link_url": "shopify://collections/completes"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_JKWtKb",
+        "image_block_BxfAg8",
+        "image_block_aeb8Rx",
+        "image_block_yfWVJc",
+        "image_block_fTrgWx"
+      ],
+      "settings": {}
+    },
+    "image_split_mWdx4B": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_RdtMrT": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_catalog.jpg",
+            "link_label": "",
+            "link_url": "shopify://pages/summer-2025"
+          }
+        },
+        "image_block_NrH84x": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_jgbpush.jpg",
+            "link_label": "",
+            "link_url": "shopify://blogs/jgb-push/jgb-push"
+          }
+        },
+        "image_block_HxGGYC": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_team.jpg",
+            "link_label": "",
+            "link_url": "shopify://pages/team"
+          }
+        },
+        "image_block_meAdEt": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_video.jpg",
+            "link_label": "",
+            "link_url": "shopify://pages/videos"
+          }
+        },
+        "image_block_UgbrYh": {
+          "type": "image_block",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/f_swankzine.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_R9c9p6": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_themightyf.jpg",
+            "link_label": "",
+            "link_url": "https://www.instagram.com/foundationskateboards/?hl=en"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_RdtMrT",
+        "image_block_NrH84x",
+        "image_block_HxGGYC",
+        "image_block_meAdEt",
+        "image_block_UgbrYh",
+        "image_block_R9c9p6"
+      ],
+      "settings": {}
+    },
+    "modal_Tijd4h": {
+      "type": "modal",
+      "name": "Modal Popup",
+      "settings": {
+        "popup_image": "shopify://shop_images/f_MEMORIAL25.jpg",
+        "heading": "",
+        "message": "",
+        "theme": "white"
+      }
     }
   },
   "order": [
     "video_background_CEAADb",
     "featured_collection_gwJpHD",
-    "image_split_k44XzT"
+    "image_split_k44XzT",
+    "image_split_VgRBWC",
+    "image_split_mWdx4B",
+    "modal_Tijd4h"
   ]
 }
