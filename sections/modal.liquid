@@ -120,12 +120,12 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    if (!localStorage.getItem("modalShown")) {
+    if (!localStorage.getItem("foundationModalShown")) {
       const modal = document.getElementById("modalPopup");
       const close = document.querySelector(".modal-popup-close");
 
       modal.style.display = "block";
-      localStorage.setItem("modalShown", "true");
+      localStorage.setItem("foundationModalShown", "true");
 
       close.onclick = function() {
         modal.style.display = "none";
