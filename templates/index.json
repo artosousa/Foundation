@@ -189,6 +189,7 @@
     },
     "modal_Tijd4h": {
       "type": "modal",
+      "disabled": true,
       "name": "Modal Popup",
       "settings": {
         "popup_image": "shopify://shop_images/f_MEMORIAL25.jpg",
