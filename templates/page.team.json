@@ -80,14 +80,16 @@
           "type": "team_member",
           "settings": {
             "name": "Austin Heilman",
-            "ig": "austin_heilman"
+            "ig": "austin_heilman",
+            "image": "shopify://shop_images/f_0223_austin-FLAT.jpg"
           }
         },
         "team_member_gzyMBM": {
           "type": "team_member",
           "settings": {
             "name": "Ruby Lilley",
-            "ig": "ruby_liley"
+            "ig": "ruby_liley",
+            "image": "shopify://shop_images/f_ruby03.jpg"
           }
         }
       },
