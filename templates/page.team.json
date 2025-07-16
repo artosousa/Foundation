@@ -75,6 +75,20 @@
             "ig": "ryan_hamburg",
             "image": "shopify://shop_images/333617668_740644431020441_7831372813653554547_n.jpg"
           }
+        },
+        "team_member_wLQh6c": {
+          "type": "team_member",
+          "settings": {
+            "name": "Austin Heilman",
+            "ig": "austin_heilman"
+          }
+        },
+        "team_member_gzyMBM": {
+          "type": "team_member",
+          "settings": {
+            "name": "",
+            "ig": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +99,9 @@
         "team_member_L3qcDQ",
         "team_member_eU3Qkf",
         "team_member_wMtNMR",
-        "team_member_Fc6VkX"
+        "team_member_Fc6VkX",
+        "team_member_wLQh6c",
+        "team_member_gzyMBM"
       ],
       "settings": {
         "padding_top": 28,
