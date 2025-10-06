@@ -9,9 +9,10 @@
  */
 {
   "current": {
-    "add_grip": "star-and-moon-grip",
+    "add_grip": "star-and-moon-grip-copy",
     "logo": "shopify://shop_images/foundation_Logo.svg",
     "logo_width": 90,
+    "favicon": "shopify://shop_images/foundation_Logo.svg",
     "map_api": "pk.eyJ1IjoiYXJ0b3NvdXNhIiwiYSI6ImNtNjh1NTUwZTBiNnAydW9jdjAxbHIydjcifQ.Fb5TaMg184yJ0pJO5KDICA",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -47,7 +48,7 @@
     "card_style": "standard",
     "card_image_padding": 0,
     "card_text_alignment": "center",
-    "card_color_scheme": "background-1",
+    "card_color_scheme": "inverse",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 0,
@@ -108,9 +109,9 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
-    "social_facebook_link": "Tum Yeto",
-    "social_instagram_link": "Tum Yeto",
-    "social_youtube_link": "Tum Yeto",
+    "social_facebook_link": "",
+    "social_instagram_link": "https://www.instagram.com/foundationskateboards/?hl=en",
+    "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -213,6 +214,13 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "651962886394718550": {
+        "type": "shopify://apps/ea-accessibility/blocks/app-embed-block/e6e05997-8214-48e2-a583-70d003e3d5f1",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -484,5 +492,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".color-inverse {background-image: url(https://cdn.shopify.com/s/files/1/0656/0484/5722/files/f_back_gry.jpg?v=1745519738); backgreound-position: cover;}"
+    ]
   }
 }
