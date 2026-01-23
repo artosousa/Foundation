@@ -101,6 +101,14 @@
             "ig": "ryan_hamburg",
             "image": "shopify://shop_images/333617668_740644431020441_7831372813653554547_n.jpg"
           }
+        },
+        "team_member_XWLrqE": {
+          "type": "team_member",
+          "settings": {
+            "name": "Jessie Darnall",
+            "ig": "jessie.darnall",
+            "image": "shopify://shop_images/JESSIE_DARNALL.png"
+          }
         }
       },
       "block_order": [
@@ -114,7 +122,8 @@
         "team_member_L3qcDQ",
         "team_member_YhjXVk",
         "team_member_eU3Qkf",
-        "team_member_Fc6VkX"
+        "team_member_Fc6VkX",
+        "team_member_XWLrqE"
       ],
       "settings": {
         "padding_top": 28,
