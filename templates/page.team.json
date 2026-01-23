@@ -71,10 +71,20 @@
         },
         "team_member_L3qcDQ": {
           "type": "team_member",
+          "disabled": true,
           "settings": {
             "name": "Liam Pace",
             "ig": "liampace_",
             "image": "shopify://shop_images/259994793_297289608962853_4621547696021762977_n.jpg"
+          }
+        },
+        "team_member_YhjXVk": {
+          "type": "team_member",
+          "disabled": true,
+          "settings": {
+            "name": "Tanner Lawler",
+            "ig": "@tannrrlawlrr",
+            "image": "shopify://shop_images/DSF2496.jpg"
           }
         },
         "team_member_eU3Qkf": {
@@ -103,6 +113,7 @@
         "team_member_wLQh6c",
         "team_member_wMtNMR",
         "team_member_L3qcDQ",
+        "team_member_YhjXVk",
         "team_member_eU3Qkf",
         "team_member_Fc6VkX"
       ],
