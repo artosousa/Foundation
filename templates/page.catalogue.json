@@ -56,7 +56,55 @@
         "buttons_miDzmX"
       ],
       "settings": {
-        "image": "shopify://shop_images/f_fall25cover.jpg",
+        "image": "shopify://shop_images/f_cover.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner_no_title_UNRQUX": {
+      "type": "image-banner-no-title",
+      "blocks": {
+        "heading_qXr4AC": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_6y9HPG": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_PJRMNA": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qXr4AC",
+        "text_6y9HPG",
+        "buttons_PJRMNA"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/f_lindloffskate.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -75,7 +123,7 @@
         "image_block_4cxzit": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_dakota_medieval.jpg",
+            "image": "shopify://shop_images/f_ds_backoff01.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -83,7 +131,7 @@
         "image_block_QdxFWJ": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_dakota_medieval_dck.jpg",
+            "image": "shopify://shop_images/f_ds_backoff02.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -101,7 +149,7 @@
         "image_block_RwEXUA": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_doodledaze_aidan.jpg",
+            "image": "shopify://shop_images/f_jl_backoff01.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -109,7 +157,7 @@
         "image_block_BWKjpL": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_doodledaze_dcks.jpg",
+            "image": "shopify://shop_images/f_jl_backoff02.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -123,6 +171,7 @@
     },
     "video_Ee9QxY": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -142,7 +191,7 @@
         "image_block_rwKyT3": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_julian_lonesome_dck.jpg",
+            "image": "shopify://shop_images/f_ac_backoff01.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -150,7 +199,7 @@
         "image_block_UVkLWW": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_julian_lonesome.jpg",
+            "image": "shopify://shop_images/f_ac_backoff02.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -168,7 +217,7 @@
         "image_block_itzD6V": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_impendingdoom.jpg",
+            "image": "shopify://shop_images/f_ll_backoff01.jpg",
             "link_label": "",
             "link_url": ""
           }
@@ -176,7 +225,7 @@
         "image_block_W7zxkP": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/f_impendingdoom_aj.jpg",
+            "image": "shopify://shop_images/f_ll_backoff02.jpg",
             "link_label": "",
             "link_url": "shopify://products/campbell-feral-8-5"
           }
@@ -187,16 +236,201 @@
         "image_block_W7zxkP"
       ],
       "settings": {}
+    },
+    "image_split_PmcFDa": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_qbY4da": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_logoporta_palindrome.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_zwR8Bz": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_logo_stargaze_illum_asimov.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_qbY4da",
+        "image_block_zwR8Bz"
+      ],
+      "settings": {}
+    },
+    "image_banner_no_title_y8JPXA": {
+      "type": "image-banner-no-title",
+      "blocks": {
+        "heading_6VwJCg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_bDQ46e": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_Qc4Xhf": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6VwJCg",
+        "text_bDQ46e",
+        "buttons_Qc4Xhf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/f_yo_sprd.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_split_rEkmYN": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_jtfdRi": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_whipper01.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_7Ddjtp": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_whipper02.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_jtfdRi",
+        "image_block_7Ddjtp"
+      ],
+      "settings": {}
+    },
+    "image_split_c4kgFR": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_JU6fmD": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_gka_hol2501.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_dmxprY": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_gka_hol2502.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_JU6fmD",
+        "image_block_dmxprY"
+      ],
+      "settings": {}
+    },
+    "image_split_6F7P3U": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_xztaDw": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_strmn_hol2501.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_nPBVMK": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_strmn_hol2502.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_xztaDw",
+        "image_block_nPBVMK"
+      ],
+      "settings": {}
+    },
+    "image_split_U7j9ti": {
+      "type": "image-split",
+      "blocks": {
+        "image_block_dbPdeH": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_push_hol2501.jpg",
+            "link_label": "",
+            "link_url": ""
+          }
+        },
+        "image_block_KF4YJr": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/f_push_hol2502.jpg",
+            "link_label": "",
+            "link_url": "shopify://products/campbell-feral-8-5"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_dbPdeH",
+        "image_block_KF4YJr"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "main",
     "image_split_wqMBLH",
     "image_banner_no_title_NEHDea",
+    "image_banner_no_title_UNRQUX",
     "image_split_ECdaPH",
     "image_split_jq9yDi",
     "video_Ee9QxY",
     "image_split_9VGAmG",
-    "image_split_W84VAY"
+    "image_split_W84VAY",
+    "image_split_PmcFDa",
+    "image_banner_no_title_y8JPXA",
+    "image_split_rEkmYN",
+    "image_split_c4kgFR",
+    "image_split_6F7P3U",
+    "image_split_U7j9ti"
   ]
 }
