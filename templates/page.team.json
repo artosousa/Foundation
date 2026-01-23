@@ -80,10 +80,9 @@
         },
         "team_member_YhjXVk": {
           "type": "team_member",
-          "disabled": true,
           "settings": {
             "name": "Tanner Lawler",
-            "ig": "@tannrrlawlrr",
+            "ig": "tannrrlawlrr",
             "image": "shopify://shop_images/DSF2496.jpg"
           }
         },
